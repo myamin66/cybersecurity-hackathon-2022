@@ -31,3 +31,5 @@ curl http://localhost:80/
  put & delete: dangrous
  if put enabled: malicious files can be sent
  *HTTP Response Codes*
+
+curl -X OPTIONS -v http://www.iba-suk.edu.pk/ 
